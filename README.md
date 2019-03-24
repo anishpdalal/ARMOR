@@ -11,9 +11,9 @@ Automated Medical Transcription
 4. pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.1.0/en_ner_bc5cdr_md-0.1.0.tar.gz
 
 ## Export Environment
-chmod u+x export-conda-env.sh (Run only once)
+1. chmod u+x export-conda-env.sh (Run only once)
 
-./export-conda-env.sh
+2. ./export-conda-env.sh
 
 ## Authors
 Anish Dalal, Nicole Kacirek, Sarah Melancon, Darren Thomas, and Tyler Ursuy
